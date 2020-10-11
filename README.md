@@ -2,7 +2,7 @@
 
 ![frozen_lake](repo_images/frozen_lake.jpg)
 
-# QLearning_With_FrozenLakeEnv_Android
+# Q Learning with the Frozen Lake environment in Android
 
 Explore Q Learning with the Frozen Lake Environment 🥶 in Android.
 Note: This section has to beautified!
